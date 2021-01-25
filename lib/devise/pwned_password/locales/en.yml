@@ -1,9 +1,9 @@
 en:
   devise:
     sessions:
-      warn_pwned: "Your password has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. <a href='test.storenvy.com'>TEST</a>"
+      warn_pwned: "Your password has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. %{pwned_password_help_link}"
       pwned_password_help_link: "https://support.storenvy.com/hc/en-us/articles/360054861651"
   errors:
     messages:
-      pwned_password: "is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. <a href='test.storenvy.com'>TEST</a>"
+      pwned_password: "is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. %{pwned_password_help_link}"
       pwned_password_help_link: "https://support.storenvy.com/hc/en-us/articles/360054861651"
