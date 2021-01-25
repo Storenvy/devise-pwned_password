@@ -1,7 +1,7 @@
 en:
   devise:
     sessions:
-      warn_pwned: "Your password has previously appeared in a data breach and should never be used. We strongly recommend you change your password."
+      warn_pwned: "Your password has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
   errors:
     messages:
-      pwned_password: "has previously appeared in a data breach and should never be used. Please choose something harder to guess."
+      pwned_password: "is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
