@@ -1,7 +1,12 @@
 en:
   devise:
     sessions:
-      warn_pwned: "Your password has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
+      warn_pwned: "Your password is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
   errors:
     messages:
+<<<<<<< Updated upstream
       pwned_password: "is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
+=======
+      pwned_password: "Your password is not strong enough or has been reused elsewhere on the internet. Please add additional capitalization, numbers, and/or characters. We recommend that you do not use any passwords previously used. https://support.storenvy.com/hc/en-us/articles/360054861651"
+
+>>>>>>> Stashed changes
